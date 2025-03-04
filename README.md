@@ -1,4 +1,4 @@
-# AI Workshop for Visual Inspection
+# Visual Inspection Workshop
 
 ## Agenda
 Artificial intelligence (AI) is rapidly becoming a critical component of engineering systems today. In the field of visual inspection, AI is being used to design and develop smarter ways to detect and classify defects in images and video.
